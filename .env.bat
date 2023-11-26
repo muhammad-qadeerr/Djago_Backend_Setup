@@ -1,0 +1,6 @@
+set CLOUD_NAME= 'dax11qvig'
+set CLOUD_API_KEY= '447649759531125'
+set CLOUD_API_SECRET= 'uP-MKbTwfKVed2xeCz6mELEL_NY'
+  
+  
+  
